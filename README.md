@@ -67,5 +67,7 @@ plano de tecnologia da informação - a ti precisa avaliar a necessidade de nova
 portfólio de ti - é extremamente importante pra que se consiga implementar projetos certos com investimentos direcionados para obter os resultados e objetivos das organizações
 definir operação de seus proprioa processos e sistemas 
 definir relacionamento com usuarios clientes - com serão as interfaces entre a ti e seus usuários
-relacionamento com fornecedores - terá fornecedor estrategico ou pra cada projeto buscará novos fornecedores no mercado, utilizara processos de eficácia rest for information ou rfp rest for porpose (relacionamento mais formal)
+relacionamento com fornecedores - terá fornecedor estrategico ou pra cada projeto buscará novos fornecedores no mercado, utilizara processos de RFI(request for information) ou rfp (request for proposal) (relacionamento mais formal)
 gestão de desempenho da ti - pra que consiga detectar oportunidades de melhoria
+
+[![Como a RFP, a RFI e a RFQ auxiliam o departamento jurídico na aquisição de soluções?](http://blog.benner.com.br/rfp-rfi-rfq-auxiliam-o-departamento-juridico-na-aquisicao-de-solucoes)]
