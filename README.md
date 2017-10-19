@@ -72,3 +72,4 @@ gestão de desempenho da ti - pra que consiga detectar oportunidades de melhoria
 
 * [Como a RFP, a RFI e a RFQ auxiliam o departamento jurídico na aquisição de soluções?](http://blog.benner.com.br/rfp-rfi-rfq-auxiliam-o-departamento-juridico-na-aquisicao-de-solucoes)
 * [Processo de Avaliação e Seleção de Sistemas](http://pt-br.gestao-de-ti.wikia.com/wiki/Processo_de_Avalia%C3%A7%C3%A3o_e_Sele%C3%A7%C3%A3o_de_Sistemas)
+* [Wiki Gestao de TI] (http://pt-br.gestao-de-ti.wikia.com/wiki/Wiki_Gest%C3%A3o_de_TI)
