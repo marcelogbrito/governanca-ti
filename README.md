@@ -72,4 +72,41 @@ gestão de desempenho da ti - pra que consiga detectar oportunidades de melhoria
 
 * [Como a RFP, a RFI e a RFQ auxiliam o departamento jurídico na aquisição de soluções?](http://blog.benner.com.br/rfp-rfi-rfq-auxiliam-o-departamento-juridico-na-aquisicao-de-solucoes)
 * [Processo de Avaliação e Seleção de Sistemas](http://pt-br.gestao-de-ti.wikia.com/wiki/Processo_de_Avalia%C3%A7%C3%A3o_e_Sele%C3%A7%C3%A3o_de_Sistemas)
-* [Wiki Gestao de TI] (http://pt-br.gestao-de-ti.wikia.com/wiki/Wiki_Gest%C3%A3o_de_TI)
+* [Wiki Gestao de TI](http://pt-br.gestao-de-ti.wikia.com/wiki/Wiki_Gest%C3%A3o_de_TI)
+* [O papel da gestão de mudanças organizacionais na TI](http://www.inmetrics.com.br/o-papel-da-gestao-de-mudancas-organizacionais-na-ti/)
+
+COBIT
+Control objectives for information and related technology
+órgão regulador: ISACA (associação internacional dos auditores)
+proposito: modelo de governança de ti com foco no controle
+definição: um conjunto de diretrizes baseada em auditoria para processos , práticas e controles de ti. voltado para redução de riscos. enfoca integrada de, confiabilidade e segurança.
+
+o COBIT tem uma série de objetivos.
+5 elementos formam os fundamentos da governança de ti:
+1) alinhamento estratégico com o negocio
+2) agregar valor ao negócio
+3) gestão de riscos
+4) gestão de recursos
+5) medicao de desempenho
+
+COBIT tem 34 processos. cada processo possui várias atividades
+COBIT demanda mais de 200 atividades par a organizacao atingir um nível de governança ideal seguro
+
+como funciona?
+COBIT está dividido em 4 dimensoes:
+1) planejamento e organização
+2) aquisição e implementação
+3) entrega e suporte
+4) controle e avaliação
+
+essas 4 dimensoes devem orientar a informação e os recursos de ti.
+tudo isso deve estar alinhado com os objetivos de negocio
+
+objetivos do COBIT:
+1) associar os processos e recursos de ti aos requisitos do negocio
+2) definir a organização de ti em um modelo de processos - passa a unidade.de.ti a ser gerenciada por processos
+3) identificar os recursos de ti que necessitam de investimento
+4) definir objetivos de controle para as organizações de ti - tudo o que você faz tem que ser controlado par a identificar oportunidades de  melhorias e implementar. com isso você está em um processo contínuo de melhoria.
+
+##Beneficios do COBIT
+
